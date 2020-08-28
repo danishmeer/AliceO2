@@ -1,0 +1,8 @@
+<map id="CorrelationTask" name="CorrelationTask">
+<area shape="rect" id="node2" href="$db/d2d/structCorrelationTask_1_1QA.html" title="{CorrelationTask::QA\n||}" alt="" coords="187,811,338,888"/>
+<area shape="rect" id="node5" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\l\&lt; CorrelationContainer \&gt;\n||+ spec()\l+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="981,737,1171,961"/>
+<area shape="rect" id="node14" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\&lt; T \&gt;\n||+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ spec()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="1237,403,1467,612"/>
+<area shape="rect" id="node10" href="$da/d96/structo2_1_1framework_1_1InputSpec.html" title="{o2::framework::InputSpec\n||+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ operator==()\l}" alt="" coords="867,189,1056,340"/>
+<area shape="rect" id="node16" href="$de/dca/structCorrelationTask_1_1Config.html" title="{CorrelationTask::Config\n||}" alt="" coords="427,636,599,713"/>
+<area shape="rect" id="node17" href="$d1/d9a/structo2_1_1framework_1_1expressions_1_1Filter.html" title="A struct, containing the root of the expression tree. " alt="" coords="1469,796,1672,903"/>
+</map>

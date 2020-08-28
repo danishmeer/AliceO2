@@ -1,0 +1,3 @@
+<map id="o2::framework::DPLRawParser" name="o2::framework::DPLRawParser">
+<area shape="rect" id="node2" href="$d8/d47/structo2_1_1header_1_1RAWDataHeaderV4.html" title="{o2::header::RAWDataHeaderV4\n|+ word0\l+ version\l+ headerSize\l+ blockLength\l+ zero0\l+ word1\l+ offsetToNext\l+ memorySize\l+ packetCounter\l+ cruID\l+ word2\l+ word3\l+ word4\l+ triggerBC\l+ zero41\l+ heartbeatBC\l+ zero42\l+ word5\l+ word6\l+ detectorField\l+ stop\l+ pageCnt\l|}" alt="" coords="668,292,891,677"/>
+</map>

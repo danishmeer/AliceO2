@@ -1,0 +1,4 @@
+<map id="o2::mch::raw::DataBlockRef" name="o2::mch::raw::DataBlockRef">
+<area shape="rect" id="node2" href="$d5/da9/structo2_1_1mch_1_1raw_1_1DataBlock.html" title="A DataBlock is a pair (DataBlockHeader,payload) " alt="" coords="54,329,234,407"/>
+<area shape="rect" id="node4" href="$dc/d33/structo2_1_1mch_1_1raw_1_1DataBlockHeader.html" title="A lightweight struct to describe a MCH Raw Data Block. " alt="" coords="208,189,435,267"/>
+</map>

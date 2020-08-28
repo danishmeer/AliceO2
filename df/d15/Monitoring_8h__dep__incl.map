@@ -1,0 +1,9 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/include/Framework/Monitoring.h" name="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/include/Framework/Monitoring.h">
+<area shape="rect" id="node2" href="$dd/d27/CommonServices_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/src/CommonServices.cxx" alt="" coords="5,131,305,187"/>
+<area shape="rect" id="node3" href="$db/dac/DataProcessingDevice_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/src/DataProcessing\lDevice.cxx" alt="" coords="329,124,589,195"/>
+<area shape="rect" id="node4" href="$d1/dca/Dispatcher_8cxx.html" title="Implementation of Dispatcher for O2 Data Sampling. " alt="" coords="613,131,868,187"/>
+<area shape="rect" id="node5" href="$d7/d54/runDataProcessing_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/src/runDataProcessing.cxx" alt="" coords="892,131,1200,187"/>
+<area shape="rect" id="node6" href="$db/d49/test__Task_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/Core/test/test\l_Task.cxx" alt="" coords="1224,124,1415,195"/>
+<area shape="rect" id="node7" href="$da/dfd/o2DummyWorkflow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Framework/TestWorkflows\l/src/o2DummyWorkflow.cxx" alt="" coords="1439,124,1642,195"/>
+<area shape="rect" id="node8" href="$d2/db0/emptyLoopBenchmark_8cxx.html" title="A benchmark which measures a maximum rate of doing nothing in a device. " alt="" coords="1666,124,1866,195"/>
+</map>

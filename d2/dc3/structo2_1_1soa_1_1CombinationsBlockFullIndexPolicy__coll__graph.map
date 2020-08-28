@@ -1,0 +1,9 @@
+<map id="o2::soa::CombinationsBlockFullIndexPolicy&lt; T, Ts &gt;" name="o2::soa::CombinationsBlockFullIndexPolicy&lt; T, Ts &gt;">
+<area shape="rect" id="node2" href="$d0/d11/structo2_1_1soa_1_1CombinationsBlockIndexPolicyBase.html" title="{o2::soa::CombinationsBlock\lIndexPolicyBase\&lt; T, Ts... \&gt;\n||+ CombinationsBlockIndexPolicyBase()\l}" alt="" coords="240,881,520,973"/>
+<area shape="rect" id="node3" href="$de/dac/structo2_1_1soa_1_1CombinationsIndexPolicyBase.html" title="{o2::soa::CombinationsIndex\lPolicyBase\&lt; Ts... \&gt;\n||+ CombinationsIndexPolicyBase()\l+ moveToEnd()\l+ addOne()\l}" alt="" coords="569,513,813,635"/>
+<area shape="rect" id="node11" href="$d0/d11/structo2_1_1soa_1_1CombinationsBlockIndexPolicyBase.html" title="{o2::soa::CombinationsBlock\lIndexPolicyBase\&lt; T, Ts \&gt;\n||+ CombinationsBlockIndexPolicyBase()\l}" alt="" coords="373,712,653,804"/>
+<area shape="rect" id="node8" href="$de/dac/structo2_1_1soa_1_1CombinationsIndexPolicyBase.html" title="{o2::soa::CombinationsIndex\lPolicyBase\&lt; Ts \&gt;\n||+ CombinationsIndexPolicyBase()\l+ moveToEnd()\l+ addOne()\l}" alt="" coords="779,315,1023,436"/>
+<area shape="rect" id="node6" href="$dd/da8/structo2_1_1soa_1_1NTupleType.html" title="{o2::soa::NTupleType\l\&lt; uint64_t, sizeof...(Ts)\&gt;\n||}" alt="" coords="377,160,559,252"/>
+<area shape="rect" id="node7" href="$dd/da8/structo2_1_1soa_1_1NTupleType.html" title="{o2::soa::NTupleType\l\&lt; T, N, REST \&gt;\n||}" alt="" coords="393,5,543,97"/>
+<area shape="rect" id="node10" href="$d8/d9e/classstd_1_1array_3_01std_1_1vector_3_01std_1_1pair_3_01unsigned_01long_00_01unsigned_01long_01_1b82c4f8bf6673cf149eb7ac44244f19.html" title="{array\&lt; std::vector\l\&lt; std::pair\&lt; unsigned\l long, unsigned long \&gt;\l \&gt;, sizeof...(Ts)\&gt;\n||}" alt="" coords="181,697,349,819"/>
+</map>

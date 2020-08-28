@@ -1,0 +1,8 @@
+<map id="Run2Matcher" name="Run2Matcher">
+<area shape="rect" id="node2" href="$d5/df4/structo2_1_1framework_1_1Builds.html" title="{o2::framework::Builds\l\&lt; aod::Run2MatchedExclusive \&gt;\n||+ pack()\l+ build()\l}" alt="" coords="101,660,335,767"/>
+<area shape="rect" id="node3" href="$da/d17/structo2_1_1framework_1_1TransformTable.html" title="{o2::framework::Transform\lTable\&lt; aod::Run2MatchedExclusive \&gt;\n||+ base_spec()\l+ base_specs_impl()\l+ base_specs()\l+ spec()\l+ ref()\l+ operator&#45;\&gt;()\l+ operator*()\l+ asArrowTable()\l}" alt="" coords="42,403,309,597"/>
+<area shape="rect" id="node5" href="$da/d17/structo2_1_1framework_1_1TransformTable.html" title="Base template for table transformation declarations. " alt="" coords="339,145,529,340"/>
+<area shape="rect" id="node7" href="$d5/df4/structo2_1_1framework_1_1Builds.html" title="This helper struct allows you to declare index tables to be created in a task. " alt="" coords="351,447,517,553"/>
+<area shape="rect" id="node9" href="$da/d17/structo2_1_1framework_1_1TransformTable.html" title="{o2::framework::Transform\lTable\&lt; aod::Run2MatchedSparse \&gt;\n||+ base_spec()\l+ base_specs_impl()\l+ base_specs()\l+ spec()\l+ ref()\l+ operator&#45;\&gt;()\l+ operator*()\l+ asArrowTable()\l}" alt="" coords="559,403,808,597"/>
+<area shape="rect" id="node8" href="$d5/df4/structo2_1_1framework_1_1Builds.html" title="{o2::framework::Builds\l\&lt; aod::Run2MatchedSparse \&gt;\n||+ pack()\l+ build()\l}" alt="" coords="359,660,573,767"/>
+</map>

@@ -1,0 +1,60 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TRD/workflow/src/TRDDigitReaderSpec.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TRD/workflow/src/TRDDigitReaderSpec.cxx">
+<area shape="rect" id="node2" href="$df/d1b/TRDDigitReaderSpec_8h.html" title="TRDWorkflow/TRDDigitReader\lSpec.h" alt="" coords="3897,124,4113,165"/>
+<area shape="rect" id="node3" href="$d7/da5/Detectors_2TRD_2base_2include_2TRDBase_2Digit_8h.html" title="TRDBase/Digit.h" alt="" coords="8516,399,8644,426"/>
+<area shape="rect" id="node13" href="$de/dc6/ConfigParamRegistry_8h.html" title="Framework/ConfigParamRegistry.h" alt="" coords="623,221,865,247"/>
+<area shape="rect" id="node21" href="$d2/d43/ControlService_8h.html" title="Framework/ControlService.h" alt="" coords="393,221,599,247"/>
+<area shape="rect" id="node23" href="$d0/df4/DataProcessorSpec_8h.html" title="Framework/DataProcessorSpec.h" alt="" coords="1435,221,1669,247"/>
+<area shape="rect" id="node30" href="$dc/dca/Lifetime_8h.html" title="Framework/Lifetime.h" alt="" coords="1613,489,1777,515"/>
+<area shape="rect" id="node33" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="2778,489,2947,515"/>
+<area shape="rect" id="node41" href="$d5/db8/DataRefUtils_8h.html" title="Framework/DataRefUtils.h" alt="" coords="2359,221,2551,247"/>
+<area shape="rect" id="node52" href="$df/d4f/Task_8h.html" title="Framework/Task.h" alt="" coords="4276,221,4415,247"/>
+<area shape="rect" id="node56" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="6014,392,6183,433"/>
+<area shape="rect" id="node58" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="7713,481,7882,523"/>
+<area shape="rect" id="node59" href="$d9/dbe/TRD_2include_2DataFormatsTRD_2TriggerRecord_8h.html" title="DataFormatsTRD/TriggerRecord.h" alt="" coords="5672,221,5909,247"/>
+<area shape="rect" id="node67" href="$df/db5/RootTreeReader_8h.html" title="A generic reader for ROOT TTrees. " alt="" coords="3532,221,3724,247"/>
+<area shape="rect" id="node71" href="$dd/d40/HitProcessingManager_8h.html" title="Steer/HitProcessingManager.h" alt="" coords="5381,131,5597,158"/>
+<area shape="rect" id="node74" href="$de/d28/GRPObject_8h.html" title="Header of the General Run Parameters object. " alt="" coords="5315,303,5495,344"/>
+<area shape="rect" id="node81" href="$d7/d42/TrapSimulator_8h.html" title="TRDSimulation/TrapSimulator.h" alt="" coords="7032,221,7256,247"/>
+<area shape="rect" id="node87" href="$d4/dae/TRD_2simulation_2include_2TRDSimulation_2Digitizer_8h.html" title="TRDSimulation/Digitizer.h" alt="" coords="8028,310,8217,337"/>
+<area shape="rect" id="node88" href="$df/df0/TRD_2simulation_2include_2TRDSimulation_2Detector_8h.html" title="TRDSimulation/Detector.h" alt="" coords="7209,399,7399,426"/>
+<area shape="rect" id="node94" href="$db/dcc/Detectors_2Base_2include_2DetectorsBase_2GeometryManager_8h.html" title="DetectorsBase/GeometryManager.h" alt="" coords="4825,131,5079,158"/>
+<area shape="rect" id="node57" href="$dc/d25/Detectors_2TRD_2base_2include_2TRDBase_2MCLabel_8h.html" title="TRDBase/MCLabel.h" alt="" coords="7780,399,7932,426"/>
+<area shape="rect" id="node9" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="8195,489,8445,515"/>
+<area shape="rect" id="node11" href="$da/d32/TRDCommonParam_8h.html" title="TRDBase/TRDCommonParam.h" alt="" coords="8468,489,8692,515"/>
+<area shape="rect" id="node12" href="$d6/dc2/DataFormats_2Detectors_2TRD_2include_2DataFormatsTRD_2Constants_8h.html" title="DataFormatsTRD/Constants.h" alt="" coords="7906,489,8121,515"/>
+<area shape="rect" id="node10" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="7481,571,7647,597"/>
+<area shape="rect" id="node14" href="$df/d72/ParamRetriever_8h.html" title="Framework/ParamRetriever.h" alt="" coords="386,399,595,426"/>
+<area shape="rect" id="node17" href="$dd/daf/ConfigParamStore_8h.html" title="Framework/ConfigParamStore.h" alt="" coords="144,310,371,337"/>
+<area shape="rect" id="node15" href="$d0/d1c/ConfigParamSpec_8h.html" title="Framework/ConfigParamSpec.h" alt="" coords="527,489,750,515"/>
+<area shape="rect" id="node22" href="$d3/d28/ServiceHandle_8h.html" title="Framework/ServiceHandle.h" alt="" coords="1123,399,1327,426"/>
+<area shape="rect" id="node24" href="$d0/d14/AlgorithmSpec_8h.html" title="Framework/AlgorithmSpec.h" alt="" coords="3525,310,3731,337"/>
+<area shape="rect" id="node27" href="$d1/df2/DataProcessorLabel_8h.html" title="Framework/DataProcessorLabel.h" alt="" coords="1225,310,1463,337"/>
+<area shape="rect" id="node28" href="$d5/dfb/DataRef_8h.html" title="Framework/DataRef.h" alt="" coords="1641,310,1802,337"/>
+<area shape="rect" id="node29" href="$d5/d3f/InputSpec_8h.html" title="Framework/InputSpec.h" alt="" coords="1403,399,1578,426"/>
+<area shape="rect" id="node32" href="$db/d2d/OutputSpec_8h.html" title="Framework/OutputSpec.h" alt="" coords="1602,399,1787,426"/>
+<area shape="rect" id="node40" href="$d8/d02/CommonServices_8h.html" title="Framework/CommonServices.h" alt="" coords="976,310,1200,337"/>
+<area shape="rect" id="node25" href="$de/d6a/ProcessingContext_8h.html" title="Framework/ProcessingContext.h" alt="" coords="3475,399,3706,426"/>
+<area shape="rect" id="node38" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="2765,571,2960,597"/>
+<area shape="rect" id="node42" href="$db/dff/RootSerializationSupport_8h.html" title="Framework/RootSerialization\lSupport.h" alt="" coords="3091,303,3299,344"/>
+<area shape="rect" id="node44" href="$d1/d53/SerializationMethods_8h.html" title="Type wrappers for enfording a specific serialization method. " alt="" coords="2618,310,2865,337"/>
+<area shape="rect" id="node45" href="$d0/d95/TypeTraits_8h.html" title="Framework/TypeTraits.h" alt="" coords="3074,399,3249,426"/>
+<area shape="rect" id="node48" href="$d6/d68/DataSpecUtils_8h.html" title="Framework/DataSpecUtils.h" alt="" coords="1827,310,2029,337"/>
+<area shape="rect" id="node50" href="$d1/d00/CheckTypes_8h.html" title="Framework/CheckTypes.h" alt="" coords="2104,310,2291,337"/>
+<area shape="rect" id="node49" href="$d3/ddf/Output_8h.html" title="Framework/Output.h" alt="" coords="1812,399,1967,426"/>
+<area shape="rect" id="node53" href="$d9/d7f/CallbackService_8h.html" title="Framework/CallbackService.h" alt="" coords="4238,310,4453,337"/>
+<area shape="rect" id="node54" href="$d0/d77/EndOfStreamContext_8h.html" title="Framework/EndOfStreamContext.h" alt="" coords="4477,310,4723,337"/>
+<area shape="rect" id="node61" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="5672,303,5904,344"/>
+<area shape="rect" id="node63" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="5457,399,5711,426"/>
+<area shape="rect" id="node72" href="$d1/def/DigitizationContext_8h.html" title="SimulationDataFormat\l/DigitizationContext.h" alt="" coords="5427,213,5597,255"/>
+<area shape="rect" id="node77" href="$df/dff/InteractionSampler_8h.html" title="Steer/InteractionSampler.h" alt="" coords="5933,221,6128,247"/>
+<area shape="rect" id="node78" href="$d7/d61/NameConf_8h.html" title="Definition of the Names Generator class. " alt="" coords="5175,213,5403,255"/>
+<area shape="rect" id="node73" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="4575,392,4803,433"/>
+<area shape="rect" id="node76" href="$da/d58/Units_8h.html" title="Header to collect definitions for different units. " alt="" coords="5215,399,5383,426"/>
+<area shape="rect" id="node85" href="$de/dac/TRD_2base_2include_2TRDBase_2Tracklet_8h.html" title="TRDBase/Tracklet.h" alt="" coords="7423,399,7571,426"/>
+<area shape="rect" id="node86" href="$d2/d36/FeeParam_8h.html" title="TRDBase/FeeParam.h" alt="" coords="7596,399,7756,426"/>
+<area shape="rect" id="node91" href="$de/d00/TrapConfigHandler_8h.html" title="TRDSimulation/TrapConfig\lHandler.h" alt="" coords="6387,303,6578,344"/>
+<area shape="rect" id="node92" href="$d8/dbb/TrapConfig_8h.html" title="TRDSimulation/TrapConfig.h" alt="" coords="6704,310,6907,337"/>
+<area shape="rect" id="node93" href="$dd/df0/Tracklet64_8h.html" title="DataFormatsTRD/Tracklet64.h" alt="" coords="6715,399,6931,426"/>
+<area shape="rect" id="node89" href="$d4/d17/Calibrations_8h.html" title="TRDBase/Calibrations.h" alt="" coords="7514,489,7689,515"/>
+<area shape="rect" id="node90" href="$d9/dd4/TRDDiffAndTimeStructEstimator_8h.html" title="TRDBase/TRDDiffAndTimeStruct\lEstimator.h" alt="" coords="8007,392,8238,433"/>
+</map>

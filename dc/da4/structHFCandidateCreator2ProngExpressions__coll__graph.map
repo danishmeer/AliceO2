@@ -1,0 +1,6 @@
+<map id="HFCandidateCreator2ProngExpressions" name="HFCandidateCreator2ProngExpressions">
+<area shape="rect" id="node2" href="$d7/d15/structo2_1_1framework_1_1Spawns.html" title="{o2::framework::Spawns\l\&lt; aod::HfCandProng2Ext \&gt;\n||+ pack()\l}" alt="" coords="179,660,377,752"/>
+<area shape="rect" id="node3" href="$da/d17/structo2_1_1framework_1_1TransformTable.html" title="{o2::framework::Transform\lTable\&lt; aod::HfCandProng2Ext \&gt;\n||+ base_spec()\l+ base_specs_impl()\l+ base_specs()\l+ spec()\l+ ref()\l+ operator&#45;\&gt;()\l+ operator*()\l+ asArrowTable()\l}" alt="" coords="39,403,271,597"/>
+<area shape="rect" id="node5" href="$da/d17/structo2_1_1framework_1_1TransformTable.html" title="Base template for table transformation declarations. " alt="" coords="283,145,473,340"/>
+<area shape="rect" id="node7" href="$d7/d15/structo2_1_1framework_1_1Spawns.html" title="{o2::framework::Spawns\&lt; T \&gt;\n||+ pack()\l}" alt="" coords="295,461,509,539"/>
+</map>

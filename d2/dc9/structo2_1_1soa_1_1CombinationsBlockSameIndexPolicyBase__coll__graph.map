@@ -1,0 +1,7 @@
+<map id="o2::soa::CombinationsBlockSameIndexPolicyBase&lt; T1, T, Ts &gt;" name="o2::soa::CombinationsBlockSameIndexPolicyBase&lt; T1, T, Ts &gt;">
+<area shape="rect" id="node2" href="$de/dac/structo2_1_1soa_1_1CombinationsIndexPolicyBase.html" title="{o2::soa::CombinationsIndex\lPolicyBase\&lt; T, Ts... \&gt;\n||+ CombinationsIndexPolicyBase()\l+ moveToEnd()\l+ addOne()\l}" alt="" coords="217,605,461,727"/>
+<area shape="rect" id="node7" href="$de/dac/structo2_1_1soa_1_1CombinationsIndexPolicyBase.html" title="{o2::soa::CombinationsIndex\lPolicyBase\&lt; Ts \&gt;\n||+ CombinationsIndexPolicyBase()\l+ moveToEnd()\l+ addOne()\l}" alt="" coords="105,421,349,543"/>
+<area shape="rect" id="node5" href="$dd/da8/structo2_1_1soa_1_1NTupleType.html" title="{o2::soa::NTupleType\l\&lt; uint64_t, sizeof...(Ts)\&gt;\n||}" alt="" coords="433,175,616,267"/>
+<area shape="rect" id="node6" href="$dd/da8/structo2_1_1soa_1_1NTupleType.html" title="{o2::soa::NTupleType\l\&lt; T, N, REST \&gt;\n||}" alt="" coords="547,5,697,97"/>
+<area shape="rect" id="node9" href="$dd/da8/structo2_1_1soa_1_1NTupleType.html" title="{o2::soa::NTupleType\l\&lt; uint64_t, sizeof...\l(Ts)+1 \&gt;\n||}" alt="" coords="645,291,796,397"/>
+</map>
